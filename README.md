@@ -39,9 +39,6 @@ I'm enthusiastic about creating elegant solutions to complex problems and learni
 
 - **Email:** kamleshbariwork@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kamlesh-bari/))
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
-- **Personal Website:** [yourwebsite.com](https://yourwebsite.com)
-- **Blog:** [yourblog.com](https://yourblog.com)
 
 ## 💡 Fun Facts
 
