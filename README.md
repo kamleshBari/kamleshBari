@@ -38,7 +38,7 @@ I'm enthusiastic about creating elegant solutions to complex problems and learni
 ## 📫 Get in Touch
 
 - **Email:** kamleshbariwork@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kamlesh-bari/))
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kamlesh-bari/)
 
 ## 💡 Fun Facts
 
