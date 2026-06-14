@@ -37,16 +37,16 @@ I'm enthusiastic about creating elegant solutions to complex problems and learni
 
 ## 📫 Get in Touch
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Email:** kamleshbariwork@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kamlesh-bari/))
 - **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
 - **Personal Website:** [yourwebsite.com](https://yourwebsite.com)
 - **Blog:** [yourblog.com](https://yourblog.com)
 
 ## 💡 Fun Facts
 
-- I love [hobby/interest]
-- Coffee enthusiast ☕
+- I love Riding bikes...
+- Bike enthusiast 
 - Open-source advocate
 
 ---
