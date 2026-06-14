@@ -22,16 +22,9 @@ I'm enthusiastic about creating elegant solutions to complex problems and learni
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS
 
-## 🌟 Featured Projects
-
-<!-- Highlight your best work -->
-- **[Project Name](link)** - Brief description of what this project does and its impact
-- **[Project Name](link)** - Brief description of what this project does and its impact
-- **[Project Name](link)** - Brief description of what this project does and its impact
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kamleshBari&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshBari&layout=compact&theme=radical)
 
