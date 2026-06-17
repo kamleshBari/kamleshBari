@@ -16,11 +16,11 @@ I'm enthusiastic about creating elegant solutions to complex problems and learni
 ## 🛠️ Tech Stack
 
 <!-- Add your languages and tools here -->
-- **Languages:** JavaScript, Python, TypeScript, and more
-- **Frontend:** React, Vue.js, HTML/CSS
-- **Backend:** Node.js, Django, Express
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React,, HTML/CSS
+- **Backend:** Node.js
+- **Databases:** PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, Docker, AWS
 
 
 ## 📊 GitHub Stats
