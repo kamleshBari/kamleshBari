@@ -30,10 +30,8 @@ I'm enthusiastic about creating elegant solutions to complex problems and learni
 
 ## 🎯 Current Focus
 
-- 🔭 Working on [current project or area]
-- 🌱 Learning [technology or skill]
-- 👯 Open to collaborating on [type of projects]
-- 💬 Ask me about [your area of expertise]
+- 🔭 Working on Investment management InvestSmart web 
+- 🌱 Learning Data Science
 
 ## 📫 Get in Touch
 
