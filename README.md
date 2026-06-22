@@ -40,7 +40,7 @@ I'm enthusiastic about creating elegant solutions to complex problems and learni
 
 ## 💡 Fun Facts
 
-- I love Riding bikes...
+- I love Riding bikes....
 - Bike enthusiast 
 - Open-source advocate
 
